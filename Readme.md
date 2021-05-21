@@ -17,4 +17,4 @@ Agora, se você está atrás de discordia, corre aqui pra nossa listinha de melh
   
 [:heavy_check_mark:]  [Melhorias de frontend](https://github.com/KoenomatachiSan/one-trading-warzone/blob/main/frontendUpdate.md)  
 [:heavy_check_mark:]  [Melhorias de backend](https://github.com/KoenomatachiSan/one-trading-warzone/blob/main/backendUpdate.md)  
-[:heavy_check_mark:]  [Melhorias de infra-estrutura](https://github.com/KoenomatachiSan/one-trading-warzone/blob/main/backendUpdate.md)  
+[:heavy_check_mark:]  [Melhorias de infra-estrutura](https://github.com/KoenomatachiSan/one-trading-warzone/blob/main/infraUpdate.md)  
