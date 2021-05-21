@@ -20,7 +20,7 @@ https://github.com/KoenomatachiSan/DudeSecurity-lib-python?fbclid=IwAR27nub2A3dQ
 
 **Gerenciamento de banco de dados - PyMysql** -  Devido a simplicidade da complexidade das querys de inserção no banco de dados a partir do micro-serviço não foi necessário a ultilização de um ORM complexo, por esse motivo usei o PyMysql para estabelecer conexão com o banco sempre que o micro-serviço for chamado e fazer as modificações no banco de dados. https://pypi.org/project/PyMySQL/
 
-**Comparação e tratamento de dados - PANDA ** - Essa library nos dá diversas funcionalidades de manipulação de arquivos e big-data, por esse motivo é usada para a leitura e comparação dos dados do banco de dados e também das big-planilhas enviadas.
+**Comparação e tratamento de dados - PANDA** - Essa library nos dá diversas funcionalidades de manipulação de arquivos e big-data, por esse motivo é usada para a leitura e comparação dos dados do banco de dados e também das big-planilhas enviadas.
 
 [:arrow_backward:]  [Voltar para o inicio?](https://github.com/KoenomatachiSan/one-trading-warzone)
 
