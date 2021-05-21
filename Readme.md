@@ -6,12 +6,12 @@ do projeto de desenvolvimento da ONE, seja você um desenvolvedor da AWS Code ou
 
 O repositório está separado em tópicos, para entender melhor, basta acessar abaixo:  
   
-[ ]  [O que é o projeto da ONE?](http://handlebarsjs.com/)  
-[ ]  [Resumo e Tecnologias - Backend](http://handlebarsjs.com/)  
-[ ]  [Resumo e Tecnologias - FrontEnd](http://handlebarsjs.com/)  
-[ ]  [Como está funcionando a infra-estrutura do projeto da ONE?](http://handlebarsjs.com/)  
-[ ]  [Regras e padronizações do backend](http://handlebarsjs.com/)  
-[ ]  [Regras e padronizações do frontend](http://handlebarsjs.com/)  
+[:heavy_check_mark:]  [O que é o projeto da ONE?](https://github.com/KoenomatachiSan/one-trading-warzone/blob/main/WhatIsOneProject.md)  
+[:heavy_check_mark:]  [Resumo e Tecnologias - Backend](https://github.com/KoenomatachiSan/one-trading-warzone/blob/main/TechnologyBackend.md)  
+[:x:]  [Resumo e Tecnologias - FrontEnd](#)  
+[:heavy_check_mark:]  [Como está funcionando a infra-estrutura do projeto da ONE?](https://github.com/KoenomatachiSan/one-trading-warzone/blob/main/Infraestructure.md)  
+[:x:]  [Regras e padronizações do backend](#)  
+[:x:]  [Regras e padronizações do frontend](#)  
   
 Agora, se você está atrás de discordia, corre aqui pra nossa listinha de melhorias:  
   
