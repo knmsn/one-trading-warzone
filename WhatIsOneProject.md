@@ -14,5 +14,5 @@ De acordo com a necessidade do projeto, as stack a ser ultilizada foi levantada 
 * Instância EC2 - Medium - Acoplamento e deploy do micro-serviço de upload e validação das planilhas
 * AMAZON - SES - Serviço SMTP para envio de e-mails dentro da plataforma
 
-[ ]  [Voltar para o inicio?](https://github.com/KoenomatachiSan/one-trading-warzone)
+[:arrow_backward:]  [Voltar para o inicio?](https://github.com/KoenomatachiSan/one-trading-warzone)
 
